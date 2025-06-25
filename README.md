@@ -27,7 +27,7 @@ Here are a few real-world projects I've built:
 - 💬 **Sentiment Analysis (Movie Reviews)** – NLP pipeline with TF-IDF & Naive Bayes  
 - 📈 **Sales Forecasting (ARIMA)** – Time Series modeling with R
 
-> 👉 Explore more projects on my [Portfolio Website](https://yourwordpresssite.wordpress.com)
+> 👉 Explore more projects on my [Portfolio Website](https://fataiportfolio.wordpress.com)
 
 ---
 
@@ -53,8 +53,8 @@ Here are a few real-world projects I've built:
 ## 📬 Let's Connect
 
 - 📧 Email: [fatai.abiodunkomolafe@gmail.com](mailto:fatai.abiodunkomolafe@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🌐 Portfolio: [yourwordpresssite.wordpress.com](https://yourwordpresssite.wordpress.com)
+- 🔗 LinkedIn: [fatai.komolafe](https://www.linkedin.com/in/fatai-komolafe-23a1a322a)  
+- 🌐 Portfolio: [Portfolio website](https://fataiportfolio.wordpress.com)
 
 ---
 
