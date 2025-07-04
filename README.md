@@ -29,6 +29,8 @@ Here are a few real-world projects I've built:
 
 > 👉 Explore more projects on my [Portfolio Website](https://fataiportfolio.wordpress.com)
 
+
+
 ---
 
 ## 🛠 Skills & Tools
@@ -59,3 +61,4 @@ Here are a few real-world projects I've built:
 ---
 
 > 💡 “Data is the new oil — but I turn it into solutions, not just storage.”
+[![Kanmii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanmii)](https://github.com/Kanmii/github-readme-stats)
